@@ -26,7 +26,7 @@ pip install -r requirements.txt
 1. Download datasets from `https://cloud.tsinghua.edu.cn/d/dc03b3300d4d483d817d/` and put them into the `data/` folder.
 2. run the model with a `yaml` configuration file like following:
 ```bash
-python run.py fit --config src/configs/yelp_full.yaml
+python run.py fit --config src/configs/yelp/yelp_full.yaml
 ```
 
 ## Cite us
